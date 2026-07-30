@@ -3,11 +3,11 @@ Implementations of the computer assignments for the Wireless Communications cour
 
 ## CA1
 
-Simulating a base-station and analyzing path-loss and shadowing effects and Power Delay Profile.
+Simulating a base-station and analyzing path-loss, shadowing effects and Power Delay Profile.
 
 Implementing a multipath wireless channel and analyzing fading channels.
 
-Power allocation in wireless networks using gradient ascent algorithm.
+Allocating Power in wireless networks using gradient ascent algorithm.
 
 ## CA2
 
