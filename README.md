@@ -8,3 +8,12 @@ Simulating a base-station and analyzing path-loss and shadowing effects and Powe
 Implementing a multipath wireless channel and analyzing fading channels.
 
 Power allocation in wireless networks using gradient ascent algorithm.
+
+## CA2
+
+Implementing different diversity methods (maximum ratio combining, time diversity, space diversity).
+
+## CA3
+
+Implementing a narrow-band channel and an OFDM system for a wide-band channel and investigating different wireless
+communication concepts (waterfilling, equalizing, and clipping effect)
